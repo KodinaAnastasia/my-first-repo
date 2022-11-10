@@ -1,0 +1,25 @@
+﻿<Window x:Class="KodinaGit.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KodinaGit"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Label x:Name="label1" FontSize="30" FontWeight="Bold">
+                Число: 0
+            </Label>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button  Margin="30" Height="70" Width="70" FontSize="30" FontWeight="Bold" Click="Button_Click">
+                +
+            </Button>
+            <Button Margin="30" Height="70" Width="70" FontSize="30" FontWeight="Bold" Click="Button_Click_1">
+                -
+            </Button>
+        </StackPanel>
+        
+    </Grid>
+</Window>

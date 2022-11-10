@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodinaGit", "KodinaGit\KodinaGit.csproj", "{3A80BACD-07E1-47F5-A201-B29E7B471B7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A80BACD-07E1-47F5-A201-B29E7B471B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A80BACD-07E1-47F5-A201-B29E7B471B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A80BACD-07E1-47F5-A201-B29E7B471B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A80BACD-07E1-47F5-A201-B29E7B471B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D477B1FE-42AD-4E5F-967B-6864B3276975}
+	EndGlobalSection
+EndGlobal
