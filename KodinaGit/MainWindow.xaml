@@ -13,10 +13,10 @@
             </Label>
         </StackPanel>
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
-            <Button  Margin="30" Height="70" Width="70" FontSize="30" FontWeight="Bold" Click="Button_Click">
+            <Button Background="Aqua" Margin="30" Height="70" Width="70" FontSize="30" FontWeight="Bold" Click="Button_Click">
                 +
             </Button>
-            <Button Margin="30" Height="70" Width="70" FontSize="30" FontWeight="Bold" Click="Button_Click_1">
+            <Button Background="Aqua" Margin="30" Height="70" Width="70" FontSize="30" FontWeight="Bold" Click="Button_Click_1">
                 -
             </Button>
         </StackPanel>
