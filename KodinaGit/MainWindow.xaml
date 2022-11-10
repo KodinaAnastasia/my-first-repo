@@ -5,10 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:KodinaGit"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" Background="Gray">
     <Grid>
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
-            <Label x:Name="label1" FontSize="30" FontWeight="Bold">
+            <Label x:Name="label1" FontSize="30" FontWeight="Bold" Background="Transparent">
                 Число: 0
             </Label>
         </StackPanel>
@@ -20,6 +20,6 @@
                 -
             </Button>
         </StackPanel>
-        
+
     </Grid>
 </Window>
